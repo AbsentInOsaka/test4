@@ -14,8 +14,8 @@ var ampInc1 = 0;
 var ampInc2 = 25;
 
 function preload() {
-  	img1=loadImage("data/crop.png");
-    song=loadSound("data/music2.mp3");
+  	img1=loadImage("library/data/crop.png");
+    song=loadSound("library/data/music2.mp3");
 }
 
 function setup() {
