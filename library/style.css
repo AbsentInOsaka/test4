@@ -1,0 +1,11 @@
+body {
+  background-image: url("data/scenec.png");
+  background-repeat: no-repeat;
+  background-color: #3161dd;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  text-align: center;
+}
